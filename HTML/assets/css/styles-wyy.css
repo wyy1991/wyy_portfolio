@@ -53,22 +53,37 @@ a:focus,
     src: url("../fonts/Futura-lt-medium.ttf");
 }
 
+@font-face {
+	font-family:  "LoraBold";
+	font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Lora-Bold.ttf");
+}
+
+@font-face {
+	font-family:  "Lora";
+	font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Lora-Regular.ttf");
+}
+
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 	font-weight:300;
 }
 
 .big-text{
-	font-family: "caviar-dreams";
+	font-family: "Raleway";
     font-size:58px;
     font-weight:300;
     line-height:62px;
-    letter-spacing:0.01em;
+    letter-spacing:0.1em;
     word-spacing: 0.15em;
+    color:#3d4562;
     text-transform:uppercase;
 }
 
 .top-menu{
-	font-family: "FuturaLtBTMedium";
+	font-family: "Lora";
 	font-weight:100;
 	color: #777;
 	font-size: 10px;
@@ -220,6 +235,16 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
         
 }
 
+/*-----------------------
+---- Logo ----
+-------------------------*/
+.logo-img{
+	width: 130px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+	
+}
 /*-----------------------
 ---- Menu Styles ----
 -------------------------*/
@@ -728,7 +753,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 -----------------------------*/
 #title-container{
 	margin-top: 50px;
-    margin-bottom: 75px;
+    margin-bottom: 10px;
 }
 
 
