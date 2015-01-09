@@ -1,0 +1,38 @@
+#nite-header{
+    background:url('../images/nite/bg-nite.jpg') no-repeat fixed;
+    background-size:cover;
+    color:#fff;
+}
+
+#mouse-header{
+    background:url('../images/remotemouse/bg_mouse.jpg') no-repeat fixed;
+    background-size:cover;
+    color:#fff;
+}
+
+#mouse-function{
+    background:url('../images/remotemouse/bg_white.jpg') no-repeat fixed;
+    background-size:cover;
+    color:#615d5d;
+}
+
+
+
+
+.mouse-prob-icon{
+	
+	position:relative;
+    display:block;
+    text-align:center;
+    width:100px;
+    height:100px;
+    margin:0px auto;
+    border-radius:50%;
+    font-size:50px;
+    line-height:100px;
+    background:#334959;
+    color:#fff;
+    -webkit-transition:all 0.2s ease-out;
+    transition:all 0.2s ease-out;
+
+}
