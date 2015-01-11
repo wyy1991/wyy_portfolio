@@ -77,11 +77,6 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     font-size: 1.3em;
     left: 120px;
     line-height: 160%;
-    position: absolute;
-    text-decoration: none;
-    top: 200px;
-    width: 400px;
-    
 }
 
 .header-title{
@@ -140,7 +135,9 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 .add-padding-top {
     padding-top:120px;
 }
-
+.add-padding-bottom {
+    padding-bottom:140px;
+}
 
 .float-on-top{
 	position:absolute;

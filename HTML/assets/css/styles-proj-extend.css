@@ -1,3 +1,4 @@
+
 #nite-header{
     background:url('../images/nite/bg-nite.jpg') no-repeat fixed;
     background-size:cover;
@@ -16,9 +17,11 @@
     color:#615d5d;
 }
 
-
-
-
+#music-dream-header{
+    background:url('../images/music/bg-banner-music.png') no-repeat fixed;
+    background-size:cover;
+    color:#fff;
+}
 .mouse-prob-icon{
 	
 	position:relative;
@@ -36,3 +39,4 @@
     transition:all 0.2s ease-out;
 
 }
+
