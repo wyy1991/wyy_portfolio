@@ -17,6 +17,12 @@
     color:#615d5d;
 }
 
+#offer-board-header{
+    background:url('../images/offerboard/bg_offerboard.jpg') no-repeat fixed;
+    background-size:cover;
+    color:#fff;
+}
+
 #music-dream-header{
     background:url('../images/music/bg-banner-music.png') no-repeat fixed;
     background-size:cover;
