@@ -28,6 +28,13 @@
     background-size:cover;
     color:#fff;
 }
+
+#nao-header{
+    background:url('../images/nao/bg-nao.jpg') no-repeat fixed;
+    background-size:cover;
+    color:#434343;
+}
+
 .mouse-prob-icon{
 	
 	position:relative;
