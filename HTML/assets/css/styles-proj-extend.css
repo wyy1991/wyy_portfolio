@@ -35,6 +35,12 @@
     color:#434343;
 }
 
+#two-d-design-header{
+    background-color: #fff;
+    background-size:cover;
+    color:#434343;
+}
+
 .mouse-prob-icon{
 	
 	position:relative;
@@ -52,4 +58,19 @@
     transition:all 0.2s ease-out;
 
 }
+
+
+/*-----------------------
+--- Images ----
+-------------------------*/
+.list-image{
+    width: 820px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
 
